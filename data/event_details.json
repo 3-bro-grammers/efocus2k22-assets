@@ -1,0 +1,351 @@
+{
+    "premium_events":{
+        
+        "PROJECTINA":{
+            "short_desc":"Project Presentation",
+            "long_desc":"Bring out your ideas and harness your skills to create fascinating projects. Let the world witness your creative innovation!<div class='red fw-800 fs-s1 mt-2'>*NOTE: Just 1 PASS is sufficient for a team of atmost 3 students</div> <b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li>The registered teams will have to submit a short report regarding the project idea and title on or before 04/05/2022. The teams will be shortlisted based on the innovation and creativity presented in their respective reports.</li><li>The shortlisted teams will have to present their projects in college (Date and time will be sent to your registered mail IDs).</li><li>Any One member of the team should purchase the technical events pass. </li><li>Certificates will be provided for all members of the team.</li></ul>",
+            "organisers":[["Manoj Kumar", "8300047831"], ["Kralisha", "6384383828"]],
+            "prize": "3500",
+            "whatsapp": "https://chat.whatsapp.com/DaHEy6BsqOx91fl2NivKmA",
+            "closed": true
+        },
+        "PAPER PRESENTATION":{
+            "short_desc":"Paper Presentation",
+            "long_desc":"Let your imagination loose and present us your wild ideas.. Who knows.. It could end up becoming the next big thing! <div class='red fw-800 fs-s1 mt-2'>*NOTE: Just 1 PASS is sufficient for a team of atmost 3 students</div><br><b class='fw-800 underline'>Instructions :</b><ul><li>This event would be comprised of 3 rounds</li><li>A One page abstract must be submitted prior to the 1st round</li><li>1st Round would be questionnaire with questions relevant to each one's domain (online event)</li><li>In 2nd round, an interview would be conducted where participants will have to answer questions from their abstracts and on-spot problems would be given to brainstorm (offline event - 7th May - Morning)</li><li>In the 3rd round, faculty at MIT will be evaluating your paper presentation (offline event - 7th May - Afternoon)</li><li>Decisions made by panelists will be treated as final</li><li>Shortlisted participants from each round will be intimated via e-mail.</li><li>Decision made by panelists will be treated as final</li><li>Plagiarism is strictly not entertained</li><li>Any further rules/instructions would be announced on the day of the event.</li><br><br> Join the E-Focus idea/paper presentation contest now!Exciting prizes are waiting too!!",
+            "organisers":[["Vishnuvardhan D", "9566076990"], ["Sri Vishwa", "9942434728"]],
+            "prize": "3500",
+            "whatsapp": "https://chat.whatsapp.com/KTq6Hb9J7olKvI72MnzK1s",
+            "closed":true
+        },
+        "LINE FOLLOWER":{
+            "short_desc":"ROBOTICS",
+            "long_desc":"Design an autonomous robot that can follow a black line on the track. The track can have zig-zag lines, curves, intersections and even interruptions. The time is counted from the moment of crossing the start line by the robot until the moment of crossing the finish line by the robot. The fastest bot to complete the given track will be awarded.<br><br> <b class='fw-800 underline'>Instructions :</b> <ul class='ml-l2'> <li>Group of maximum 3, or a Loan Wolf can register.</li> <li>During the drive the robot has to move fully autonomously. The contestant can only switch it on at the beginning and switch off at the end.</li><li>The robot must fit within a square box of following dimensions initially: Height of 30 cm., Width of 30 cm., Length of 30 cm.</li><li>The robot should not damage the track.</li><li>The power supply must be on-board.</li><li>You are not allowed to reprogram the bot once the timer starts.</li><li>If the robot moves out of the track, the team leader can place it back on the previous check point. A time penalty will be given for the same.</li><li>The robots can use IR sensor or camera or a combination of both to follow the line.</li></ul>",
+            "organisers":[["Sairushan", "8056902807"], ["Gogulnath", "8610553353"]],
+            "prize": "1500",
+            "whatsapp": "https://chat.whatsapp.com/CiMpfDzqFDM4VfHnIjc809",
+            "closed": true
+        },
+        "ROBO SOCCER":{
+            "short_desc":"ROBOTICS",
+            "long_desc":"Design a wired or wireless manual robot that can play football and compete against other robot in a football match. The robots would compete one‐on‐one against each other in a knock‐out tournament. Each round lasts for 6 minutes. The team to score the highest goal qualifies for the next rounds.<br><br> <b class='fw-800 underline'>Instructions :</b> <ul class='ml-l2'><li>Group of maximum 3, or a Lone Wolf can register.</li><li>The robot must fit within a square box of following dimensions initially: Height of 30 cm., Width of 30 cm., Length of 30 cm.</li><li>The total mass of the robot must not exceed 6 kgs.</li><li>Robots must be manually controlled. Wired or wireless remotes can be used.</li><li>Teams using wireless robots should use multi frequency remotes to avoid frequency interference.</li><li>Only one member would be allowed to control the bot during the match.</li><li>The robot should be electrically powered. The power supply must be on-board.</li><li>The potential difference between any two points of the robot should not exceed 24V DC.</li><li>Change of battery will not be allowed during the match.</li><li>In case of wired bots, the wires should remain slack during the fight.</li><li>The wires should remain insulated and all the wires coming out of the machine should be stacked as a single unit.</li><li>Parts that could break or damage the ring or opponent’s robot are not allowed.</li><li>Use of pneumatics, hydraulics, inflammable liquids, flame weapons, glue, RF jammers, and electromagnetic systems is strictly prohibited.</li><li>The ball can be dribbled and hit from any part of the robot.</li><li>Tennis ball of radius 3.5 cm approx is to be used to score goals.</li></ul>",
+            "organisers":[["Sairushan", "8056902807"], ["Gogulnath", "8610553353"]],
+            "prize": "3500",
+            "whatsapp": "https://chat.whatsapp.com/Hn8TUZK9xysHU5SPuq39Uf",
+            "closed": true
+        },
+        "CASE CHALLENGE":{
+            "short_desc":"Case Challenge + B Plan",
+            "long_desc":"Ever dreamt of managing your own venture?<br><br>Case Challenge presents you the perfect opportunity to be the ultimate problem solver and exhibit the entrepreneur in you!!<br><br> <b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li>Individual participation or a team of two is allowed.</li><li>Keep away your phones and dwell into the case</li><li>One of the finest event that does not require any other prerequisites</li></ul>",
+            "organisers":[["Abdur Rahman Sheriff", "7639914113"], ["Madhumitha D", "9841433232"]],
+            "prize": "2000",
+            "whatsapp": "https://chat.whatsapp.com/DPDYJXHFqD21jljuZJQ94W",
+            "closed": true
+        },
+        
+        "CODE CARNIVAL":{
+            "short_desc":"Coding Contest",
+            "long_desc":"<div>Hey Coders,</div><div>“Programming isn't about what you know, it's about what you can figure out.</div><div>To celebrate the spirit of programming, Efocus brings “Code Carnival”, a knockout coding contest in which each of the participants will get a chance to fight and win to survive in the competition.</div><div>No competition is completed without rewards, hence stand a chance to win prizes<br></div><div class='underline fw-800'>Instructions:</div> <ul class='ml-l2'><li><b class='fw-800' >ROUND 1</b>: 3 Problem Solving questions (DSA)</li><li><b class='fw-800'>ROUND 2</b>: Informed after Round 1 ends</li></ul>",
+            "organisers":[["Mohan Raj", "6382540649"], ["Mohammed Harish", "6383240985"]],
+            "prize": "3000",
+            "whatsapp": "https://chat.whatsapp.com/Ka2TRRLqqB3Gc4MfGK3pnW",
+            "closed": true
+        },
+        "RUN TIME ERROR":{
+            "short_desc":"Debugging Contest",
+            "long_desc":"<div>Hey Debuggers,</div><div>Run Time Error is for all those who have a craze for code debugging. Test your understanding of various concepts like pointers, functions, recursions, time-space complexity.</div><div class='underline fw-800'>Instructions:</div>  <ul class='ml-l2'><li><b class='fw-800'>ROUND 1:</b> 20 Questions</li><li><b class='fw-800'>ROUND 2</b>: Informed after Round 1 ends</li></ul>",
+            "organisers":[["Mohan Raj", "6382540649"], ["Mohammed Harish", "6383240985"]],
+            "prize": "3000",
+            "whatsapp": "https://chat.whatsapp.com/HsnpQCUdcXFH1Pmb5XNfgO",
+            "closed": true
+        },
+
+        "MR AND MISS EFOCUS":{
+            "short_desc":"Title Event",
+            "long_desc":"Being termed students,Toppers, Engineers we always hid behind titles.<br><br>Here's your chance to shine alone and ablaze.Join us for the grand title event of Electrofocus Mr and Ms Efocus and earn exciting prizes!<br><br>It's fun, it's Invigorating and most importantly it's non-technical.Stay tuned for the surprise events and get an amazing chance to explore yourselves along the journey. Do register.",
+            "organisers":[["Keerthivasan R S", "9486981229"], ["Saravanan V", "9384154069"]],
+            "prize": "3000",
+            "whatsapp": "https://chat.whatsapp.com/JpJpbL44Ky26BhqAw0Wyde",
+            "result_ignore": [[["PRAJEEN R G", "ECE", "BANNARI", "First Year"] ,["PALANIAPPAN S", "ECE"],["SURIYA N", "ECE"]],[["CHARAAN S", "ECE" , "BANNARI"], ["RAMACHANDRA T", "CT" ], ["ABISHEK R", "CT"]]],
+            "closed": true
+        }
+    },
+    "tech_events":{
+        "E-DESIGN":{
+            "short_desc":"E-Design",
+            "long_desc":"Do you love to mess up with wires and electronic components? Time to test your designing skills!! This is an event which involves simple circuit design and hardware implementation.This event requires knowledge about how to design a circuit in LTspice software and circuit making on the breadboard along with the knowledge of basic electronic components. <br><br><b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li><b class='fw-800'>Round 1</b> - Simulation round using LTspice . The circuit name will be given as a puzzle. The teams have to solve the puzzle and design in the LTspice. A fixed number of teams with the best scores would advance to the second round.</li><li><b class='fw-800'>Round 2</b> - Implementation of the given circuit on the breadboard.The team who got the output first will be declared as the winner of this event.</li><li>A team can have a maximum of 3 members.</li><li>Systems and necessary  components will be provided.</li><li>The participants will get a maximum of 15 minutes to crack the puzzle.</li><li>Circuits must be designed and implemented within the given time.</li></ul><br><br>The rules and  marking schemes of each round will be made clear before the event starts.<br>Happy designing!!!",
+            "organisers":[["Nandini A", "6382219929"], ["Swetha V","9092138831"]],
+            "prize": "3000",
+            "whatsapp": "https://chat.whatsapp.com/GW5fMoWhgbO0PfV5nLxF0P",
+            "closed": true
+        },
+        "CIRCUIT DEBUGGING":{
+            "short_desc":"Circuit Theory",
+            "long_desc": "This is an event which involves complex circuit analysis and the skills to perform practically and execute using analog devices and components.  As the name suggests, it is an event which requires knowledge about circuit making on the breadboard along with the knowledge of basic analog components.<br><br><b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li>A team can have a maximum of 3 members</li><li><b>ROUND 1</b> : Elimination round where each team would be given M.C.Q’s.</li><li><b>ROUND 2</b> : The teams will be given a circuit. Participants should rig up that circuit. Teams with the lowest clock time would advance to the final round.</li><li>Further information about each round would be provided to the participants on the day of the event.</li></ul>" ,
+            "organisers":[["Sivaram G", "6379974764"]],
+            "prize": "3000",
+            "whatsapp": "https://chat.whatsapp.com/Cjn6N5mKPcVBD6gQ0wPESX",
+            "closed": true
+        },
+        "NETWORKS":{
+            "short_desc":"Communication Networks",
+            "long_desc": "From our phones to our homes, the electrical networks rule the world. Join us and participate in this exciting session from circuit theory to communication networks. <br><br><b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li> <b class='fw-800'>Round 1</b>: Solving crosswords</li><li> <b class='fw-800'>Round 2</b>: Surprise Event! </li></ul>" ,
+            "organisers":[["Kanmani A", "9786866284"], ["Kowsalya B.U", "7598244760"]],
+            "prize": "3000",
+            "whatsapp": "https://chat.whatsapp.com/DrA77tCVT1JDpXqcIFg5ax",
+            "closed": true
+        },
+        "HACKATHON":{
+            "short_desc":"Problem Solving",
+            "long_desc": "Want to flex your problem solving skills and ability to work in teams? This event provides you with an opportunity to work in teams and develop solution to challenging problems. <br><br><b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li> Participants can form teams of up to three members; Students can even participate individually.</li><li>Working application should be made for software hackathon and simulation model for hardware hackathon.</li><li>Participants should bring laptop.</li><li>Participants will be given a day to come up with solution. </li><li>The winning project will be decided by the organizers.</li></ul>" ,
+            "organisers":[["Adityen", "7448928609"], ["Baskar S", "9094509897"]],
+            "prize": "3000",
+            "whatsapp": "https://chat.whatsapp.com/IXq191kSNyl2lNJIU9roVI",
+            "closed": true
+        },
+        "SIGNAL SYNC":{
+            "short_desc":"Signals & Systems",
+            "long_desc":"Are you fascinated by 5G? Are you curious about how mobile phones communicate? Does wireless connectivity intrigue you?<br><br>So come and integrate your energy across various aspects of signals and prove your power by participating in Signal sync. <br><br><b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li>Individual participation or a team of two is allowed.</li><li>The first round will be a MCQ test and Questions will be based on Signals and wireless communication systems.</li><li>Shortlisted teams will be informed about the next round via their registered e-mail.</li></ul>",
+            "organisers":[["Prakash Murugan N", "9487507506"], ["Samyukta K", "9444284515"]],
+            "prize": "3000",
+            "whatsapp": "https://chat.whatsapp.com/JhmmHjI59SKCekJ3hAsFLv",
+            "closed": true
+        },
+        "TECHNICAL GD":{
+            "short_desc":"Group Discussion",
+            "long_desc":"Join the crowd to expose your intertwined skills of technical knowledge and Rhetorics! Focus, listen and share! <br><br><b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li>GD will be conducted in offline mode only</li><li>It is open to all college students</li><li>Certificates will be provided</li><li>There will be two rounds</li><li>Judge's decision is final</li></ul>",
+            "organisers":[["Bhuvaneaswari", "9487355768"], ["Felicia Mercy", "8903014430"]],
+            "prize": "3000",
+            "whatsapp": "https://chat.whatsapp.com/E98DaphNfb4AFcRcYimsVr",
+            "closed": true
+        },
+        "DIGI-LOGI":{
+            "short_desc":"Digital Electronics",
+            "long_desc":"Digi-Logi is based on the concepts of Digital electronic circuits, Digital VLSI and basic Verilog coding. <br><br><b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li> <b class='fw-800'>ROUND 1 (Prelims)</b> : MCQ-based questionnaire on Digital Electronics (15 MCQs). Prelims will be conducted in a rolling format. Participants can take up the test any 45mins between 10am to 12pm.</li><li> <b class='fw-800'>ROUND 2 (Finals)</b> : Two formats are given below. Participants can follow any one format of their choice : <ul class='ml-l2' type='square'><li>Participants will be given a working digital circuit representation. Participants are required to realize the given circuit using Verilog HDL.</li><li>Participants will be given a scenario that requires a certain implementation of a digital circuit. Participants need to draw the circuit that satisfies the scenario. (Eg. for scenario:- Implement a shift register in which the output of the last Flip Flop is connected to the input of the first Flip Flop. Ans:- Ring Counter)</li></ul></li></ul>",
+            "organisers":[["Janakiraman", "7358919246"], ["Duke Daffin", "8778316620"]],
+            "prize": "3000",
+            "whatsapp": "https://chat.whatsapp.com/EYVDSZbwUY468SxtH8SHkH",
+            "closed": true
+        },
+        "HOPE CIRCUIT":{
+            "short_desc":"Project Display",
+            "long_desc":"Want to exhibit the engineer in you? Hope circuit presents you the opportunity to display your project skills.  With this event, you'll be able to think critically, analyze problems, and develop appropriate solutions. You will acquire new ideas and a deeper understanding of various concepts as a result. <div class='red fw-800 fs-m1 mt-2'>*NOTE : Only for MIT Students</div>  <br><b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li>Participants can form teams of up to three members; even students can participate individually.</li><li>A display, demonstration and explanation of the project should be made; the project should be completed before the event.</li><li>Projects should be hardware-based only.</li><li>Participants can explain their project by using posters or placards. </li><li>The winning project will be decided by the professors in charge.</li></ul>",
+            "organisers":[["Naveen Chandhar Singh ", "9442701048"], ["Manju Shree kumaravel", "9940683113"]],
+            "prize": "1500",
+            "whatsapp": "https://chat.whatsapp.com/GovCds1j7zJCyg4rkT50wh",
+            "closed": true
+        }
+    },
+    "non_tech_events":{
+
+        "CONNEXIONS":{
+            "short_desc":"",
+            "long_desc":"It's time to rack up your brain folks !!!<br><br>Connexion is not at all about what you think. It's all about how you think.<br>Get ready to become the master connector and stand a chance to win exciting prizes.<br><br><b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li>A team of max 3 is allowed.</li><li>There will be 3 rounds: Prelims, Semifinal and Final</li><li>Shortlisted teams will be informed about the next round via their registered mail.</li></ul>",
+            "organisers":[["Swaminathan", "8220889222"], ["Mohanapriyadharshini RJ", "9159610285"]],
+            "prize": "3000",
+            "whatsapp":"https://chat.whatsapp.com/Drtx2apdPj7C364rh3sQ2T",
+            "result_ign": [[["PRAJEEN R G", "ECE", "BANNARI", "First Year"] ,["PALANIAPPAN S", "ECE"],["SURIYA N", "ECE"]],[["CHARAAN S", "ECE" , "BANNARI"], ["RAMACHANDRA T", "CT" ], ["ABISHEK R", "CT"]], [["CHARAAN S", "ECE" , "BANNARI"], ["RAMACHANDRA T", "CT" ], ["ABISHEK R", "CT"]]],
+            "closed": true
+        },
+        "MARVEL QUIZ":{
+            "short_desc":"",
+            "long_desc":"\"Avengers, Assemble!\"<br><br>If you're a marvel fan, then it is the right opportunity to showcase your knowledge. Electrofocus-22 invites you all to participate in the Marvel Quiz and show your bravery to the world.<br>What's more? Well, other than fun and thrill, we have exciting prizes for you  ll. So hurry up and grab your chance to be the \"Marvel Superfan\"!<br><br>  <b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li>Individual participation or a team of two is allowed.</li><li>The first round will be a MCQ test and Questions will be based on all events upto \"Moon Knight\"</li><li>Shortlisted teams will be informed about the next round via their registered e-mail.</li></ul>",
+            "organisers":[["Ananth", "9787799646"], ["Hirthikk", "9443121809"]],
+            "prize": "1500",
+            "whatsapp": "https://chat.whatsapp.com/L3SEG8nmf374QnmUvRBTb9",
+            "closed": true
+        },
+        "IPL AUCTION":{
+            "short_desc":"",
+            "long_desc":"Love to bid? Join our auction party<br><br>The ultimate bidding strategy<br><br>Catch the action at the Auction!!!",
+            "organisers":[["Mohamed Riyaz", "8838352401"], ["Madhumitha R", "9677672329"]],
+            "prize": "3000",
+            "whatsapp": "https://chat.whatsapp.com/FTrpy9je4jLFzYAY3HA0fR",
+            "closed": true
+        },
+        "MOVIE QUIZ":{
+            "short_desc":"",
+            "long_desc":"When we think of our favorite movies, they're jam-packed with drama, action, and adventure usually in two hours or less.<br><br>From \"Die Hard\" to \"The Dark Knight\" can you guess the famous  film from a single sentence? Let’s find out!<br><br><b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li>Individual participation or maximum of 3 in a team is allowed.</li><li>The event will occur over a span of three rounds.</li><li>Shortlisted teams will be informed about the further rounds.</li></ul>",
+            "organisers":[["Kanishka", "8523942653"], ["Kalaiyarasi", "9566303920"]],
+            "prize": "1500",
+            "whatsapp": "https://chat.whatsapp.com/ImKRP3vMXbC8Qm43T4Z6hn",
+            "closed": true
+        },
+        "MATH MAVERICK":{
+            "short_desc":"",
+            "long_desc":"Sharpen your pencils and percipience in a bid to conquer indomitable Math Monster<br><br><b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li>Maximum of two per team is allowed. </li><li>The first and the subsequent rounds barring the final round will be based on objective type. <li>Questions based on logical reasoning and day to day math problems will be predominantly asked.</li></li><li>Shortlisted teams will be informed about the next round via their registered e-mail.</li></ul>",
+            "organisers":[["Ananda Padmanabhan", "9789483514"], ["Monisha", "9751971577"]],
+            "prize": "3000",
+            "whatsapp": "https://chat.whatsapp.com/KxryD8lvPPO8OJfht3r4Dh",
+            "closed": true
+        },
+        "VOICE OVER":{
+            "short_desc":"",
+            "long_desc":"<b class='fw-800 underline'>Instructions</b> : <br><ul class='ml-8'> <li>Only single participation is allowed.</li><li>Two rounds will be conducted.</li><li>First round includes the imitation of played voice.</li><li>Second round  expects both body language and voice to be on sync with the played video.</li><li>Students who are shortlisted will be initmidated through their registered e-mail address.</li></ul>",
+            "organisers":[["Mathivathani", "9487586670"], ["Gayathri", "8939290475"]],
+            "prize": "1500",
+            "whatsapp": "https://chat.whatsapp.com/Ck15vnxuHqF39ifIsSnpu6",
+            "result": [[["ABDUL FAREED", "ECE", "MNM Jain Engineering College", "Third Year"]],[["ARAVINDHAN", "ECE" , "MIT", "Second Year"]]],
+            "closed": true
+        },
+        "HOW STUFF WORKS":{
+            "short_desc":"",
+            "long_desc":"Ever wondered why things are the way they are?<br>Does the working and reason behind the existence of things make your mind curious?<br>Then, buckle up, for you will be tested on how you perceive and understand everything, and by everything, we mean everything.<br>Come, participate in the <b>How Stuff Works</b> Quiz.<br><br><b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li>Team of max three is allowed. </li><li>Total no of rounds: 2</li><li>Shortlisted teams will be informed about the next round via their registered e-mail.</li></ul>",
+            "organisers":[["Nishali N", "9489941221"], ["Visalini S", "7339027909"]],
+            "prize": "3000",
+            "whatsapp": "https://chat.whatsapp.com/Fc3T8XMNe5tBOtcdMzVcxA",
+            "closed": true
+        },
+                
+        
+        "GENERAL QUIZ":{
+            "short_desc":"",
+            "long_desc":"Are you ready to unlock your knowledge at the speed of thought?<br><br>Join us and have fun cracking questions<br><br> <b class='fw-800 underline'>Instructions</b> : <br><ul class='ml-8'> <li>The quiz will consist of two rounds - Prelims and finals.</li><li>Participants are requested to register as teams. (max 3 per team)</li><li>The top 8 teams from prelims will qualify for the finals.</li><li>Both rounds will be conducted in OFFLINE mode.</li><li>Further details about the rounds will be explained during the quiz.</li><li>Happy quizing!</li></ul>",
+            "organisers":[["Pranav Balakrishnan", "9500074020"], ["Alagar Raman", "8072839236"]],
+            "prize": "3000",
+            "whatsapp": "https://chat.whatsapp.com/H0AOZFCSXyN4b2nl2B4nw9",
+            "closed": true
+        }
+
+        
+    },
+    "gaming":{
+        "VALORANT":{
+            "short_desc":"",
+            "long_desc":"Gamers buckle up as the Electrofocus- 22, brings to you the Valorant Cup, epic combat among squads that will demand some sheer heroics and wherein only the soundest of shooters shall survive. And, that last squad standing, shall be rewarded from our coffer, not for naught but for trouncing the rest from its tribe.<div class='underline fw-800'>Instructions:</div><ul class='ml-8'><li>Team of 5 members</li><li>Team coach is allowed</li><li>Map selection by elimination method</li><li>No cheating or hacking</li><li>AFK will be penalized</li><li>Harassment, cursing or obscene language in voice or chat will be penalized</li></ul>",
+            "organisers":[["Sairushan", "8056902807"], ["Dharshik", "6382737929"],  ["Niranjan Krishna", "6383872113"]],
+            "old_cost": "30",
+            "cost":"10",
+            "prize": "3000",
+            "whatsapp": "https://chat.whatsapp.com/HCBsQ42Aa9X86IyYXDourc",
+            "closed": true
+        },
+
+        "BGMI":{
+            "short_desc":"",
+            "long_desc":"<div class='underline fw-800'>Instructions:</div><ul class='ml-8'><li>Squad Match</li><li>Account level greater than 35 is required</li><li>No cheating or hacking</li><li>No teamup</li></ul>",
+            "organisers":[["Mohan Raj R", "6382540649"], ["Arun B", "9566608861"]],
+            "cost":"30",
+            "prize": "1500",
+            "whatsapp": "https://chat.whatsapp.com/KSCMnAJsJeI3atbfjd0z8S",
+            "closed": true
+        },
+
+        "FIFA":{
+            "short_desc":"",
+            "long_desc":"<b class='fw-800 underline'>Instructions :</b><ul class='ml-l2'><li>Version of game Fifa 21</li><li>Can choose any international and league team</li><li>Only preloaded squads are allowed no custom squads</li><li>Succesion in games by elimination</li><li>Only on console and two can play</li><li> 4 minutes per half</li><li>Latest squads upto latest update only available</li></ul>",
+            "organisers":[["Krethik", "9600350007"], ["Ananda Padmanabhan", "9789483514"]],
+            "cost":"30",
+            "prize": "1500",
+            "whatsapp": "https://chat.whatsapp.com/I9ksNumPkzP6F0VamFWslj",
+            "closed": true
+        }
+    },
+    "workshops":{
+        "AIOT":{
+            "short_desc":"IBM Experts",
+            "long_desc":"<div class='fs-m2 fw-800 red'>AIOT Workshop using OpenPOWER cores</div><br><div class='underline'>Agenda:</div><ul><li>Everywhere AI-Workflow of ML and Use Cases of AI</li><li>Hardware implementation of Neural Network Models, AI in IOT</li><li>AI in IOT - Components of IOT and Building IOT Applications</li><li>Case Study-Implementing AI in IOT</li><li>Hands on Programming Laboratory Session</li></ul><br><div class='underline'>Experts</div><b class='fw-800'>Manikandan</b>,<br>Hardware Architect<br><br><b class='fw-800'>Dr. Shashidhara H R</b>,<br>Verification Expert<br><br><b class='fw-800'>Dr. Abhinandan</b>,<br>IBM Champion<br>",
+            "organisers":[["Dhilip Kumar", "8825861408"]],
+            
+            "date":"07-05-2022",
+            "time":"9.00 a.m. - 4.00 p.m.",
+            
+            "old_cost":"799",
+            "cost": "699",
+            "whatsapp": "https://chat.whatsapp.com/JjNCFMtbwcSK14uFA7bmPG",
+            "closed": true
+
+        },
+        "ZERO TO CHIP DESIGN":{
+            "short_desc":"IBM Experts",
+            "long_desc":"<div class='fs-m2 fw-800 red'>Zero to Chip Design using OpenPower Cores</div><br><div class='underline'>Agenda:</div><ul><li>OpenPOWER Cores and Accelerators</li><li>Softcore for FPGA - Microwatt Introduction</li><li>Digital Circuit Verification using nMigen</li><li>System on a chip, Components and IP Cores</li><li>Hands on Programming with Coriolis 2 flow for GDS II</li></ul><br><div class='underline'>Experts</div><b class='fw-800'>Ganesan Narayanasamy</b>,<br>IBM OpenPOWER Global Leader<br><br><b class='fw-800'>Luke Leighton</b>,<br>Director, Red Semiconductor<br><br><b class='fw-800'>Dr. Satyadhyan Chickerur</b>,<br>System's Expert<br>",
+            "organisers":[["Dhilip Kumar", "8825861408"]],
+            
+            "date":"08-05-2022",
+            "time":"9.00 a.m. - 4.00 p.m.",
+            "old_cost":"799",
+            "cost": "499",
+            "whatsapp": "https://chat.whatsapp.com/JpJhZdLoUrT0aKltUVsO2U",
+            "closed": true
+        },
+        "EVOLUTION OF 5G":{
+            "short_desc":"Airtel Experts",
+            "long_desc":"<div class='fs-m2 fw-800 red'>Evolution of 5G</div><br><div class='underline'>Topics to be Discussed:</div><br><div class = 'fw-800'>Session 1</div> <ul class='ml-l2'><li>Basics of Communication</li><li>Evolution of Mobile Networks</li></ul><ul style='list-style-type: square;' class='ml-l4'><li>GSM</li><li>CDMA</li><li>LTE</li></ul><div class = 'fw-800'>Session 2</div> <ul class='ml-l2'><li>5G Evolution</li><li>5G Use Cases</li><li>5G Architecture</li><li>5G in Reality</li></ul><br><div class='underline'>Experts</div><b class='fw-800'>Samuel John</b>,<br>Former Network Analyst, Airtel<br><br><b class='fw-800'>Praveen</b>,<br>Lead Network Digitization, Airtel<br>",
+            "organisers":[["Prakash Murugan", "9487507506"], ["Nijith Sahay", "9514478810"]],
+            
+            
+            "date":"07-05-2022",
+            "time":"10.30 a.m. - 4.30 p.m.",
+            "cost":"699",
+            "whatsapp": "https://chat.whatsapp.com/EA5v21rFrFgJcsi37cgIWL",
+            "closed": true
+
+        },
+        "EMBEDDED CONTROLLERS":{
+            "short_desc":"Dr. V. Sathiesh Kumar",
+            "long_desc":"<div class='fs-m2 fw-800 red'>HANDS-ON TRAINING in Configuring And Programming Of Peripherals In Embedded Controller</div><br><div class='underline'>Topics to be Discussed:</div> <ul class='ml-8'><li>Introduction to Embedded Controller</li><li>Architecture and Pin Details</li><li>LED, Switch and LCD Interface</li><li>Electrical Actuators </li><li>Sensor Interfacing </li><li>Timers and Counters</li><li>Serial Communication Protocols</li></ul><br><br>Lecture by <b class='fw-800'>Dr. V. Sathiesh Kumar</b>,<br>Department of Electronics Engineering,<br>Anna University.",
+            "organisers":[["Santhosh", "6379982870"]],
+            
+            
+            "date":"07-05-2022",
+            "time":"1.00 p.m. - 4.30 p.m.",
+            "old_cost":"649",
+            "cost": "399",
+            "whatsapp": "https://chat.whatsapp.com/GA9EEpzMONy1syYwgqzXwP",
+            "closed": true
+
+        },
+        "EVOLUTION AND ADVANCEMENTS OF ANTENNA":{
+            "short_desc":"",
+            "long_desc":"<div class='fs-m2 fw-800 red'>Evolution and Recent Advancements of Antenna</div><br><br>Session by <b class='fw-800'>Ganesh Balasubramanian</b>,<br>Senior Deputy Director of Engineering at <b class='fw-800'>Amphenol Antenna Solutions</b><br><a class='no-underline blue fw-800' href='https://www.linkedin.com/in/ganesh-balasubramanian-b087b55/'>LinkedIn</a>",
+            "organisers":[["Prakash Murugan", "8428187506"]],
+            
+            "date":"07-05-2022",
+            "time":"10.00 a.m. - 12.30 p.m.",
+            "old_cost":"699",
+            "cost": "499",
+            "whatsapp": "https://chat.whatsapp.com/EmPhgBsWL4vFn3u925EdFC",
+            "closed": true
+
+        },
+        "CONTROL SYSTEM AND ROBOTICS":{
+            "short_desc":"Training Workshop - MITRA",
+            "long_desc":"<div class='fs-m2 fw-800 red'>Training Workshop on Control System and Robotics</div><br><br>Session by <b class='fw-800'>MIT Robotics Association (MITRA)</b>",
+            "organisers":[["Santhosh", "6379982870"]],
+            
+            "date":"08-05-2022",
+            "time":"1.00 p.m. - 4.30 p.m.",
+            "old_cost":"650",
+            "cost": "399",
+            "whatsapp": "https://chat.whatsapp.com/BmNdFYuijA72AD2GqRwLCX",
+            "closed": true
+
+        }
+        
+    },
+    "placements":{
+        "E2INFOSYSTEMS PLACEMENT DRIVE": {
+            "long_desc":"<div class='fs-m2 fw-800 red'>E2-Infosystems Placements Drive</div><br><br> Grab the golden opportunity to get a placement opportunity at one of the leading software engineering and consulting firm providing solutions to address business problems.<br><br><div class='underline fw-800'>Tech Stack :</div> <div class='flex flex-wrap justify-center e2-icons'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg'/>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/feathersjs/feathersjs-original.svg'/>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'/>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg'/></div>  <br><br> <div class='underline fw-800'>Instructions:</div><ul class='ml-8'><li>Round 1 - Programming Questions - Written Test </li><li>Round 2 - Coding Round - Online</li><li>Round 3 - Interview</li></ul><div class='mt-2' ><a href='https://www.e2infosystems.com/' class='no-underline hover-underline red '>Website</a> </div>",
+            "organisers":[["Saravanan", "9384154069"], ["Chandru", "8124424244"]],
+            "icons":"<div class='flex wrap'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg'/>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/feathersjs/feathersjs-original.svg'/>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'/>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg'/></div>" ,
+            "whatsapp": "https://chat.whatsapp.com/IGcz6E2HLzFL4NEI6HuyYy"
+        },
+        "MBIT WIRELESS PLACEMENT DRIVE": {
+            "long_desc":"<div class='fs-m2 fw-800 red'>MBIT WireLess Placement Drive</div><div class='underline fw-800'>Candidature Expectations:</div><ul class='ml-8'><li>Strong knowledge in Wireless and Digital Communications</li><li>C programming knowledge</li><li>Interest to work in development of wireless communication technologies</li></ul> <br><br> <div class='underline fw-800'>Instructions:</div><ul class='ml-8'><li>Interested candidates will have a separate round, questions will be related to the above mentioned requirements</li><li>Top performers of <a class='red fw-800 no-underline hover-underline' href='register.html?event_name=SIGNAL%20SYNC&categ=tech_events'>Signal Sync</a> will get a direct opportunity to attend an interview with Mbit Wireless</li></ul><div class='mt-2' ><a href='https://www.mbitwireless.com/' class='no-underline hover-underline red '>Website</a> </div>",
+            "organisers":[["Prakash Murugan", "9487507506"]],
+            
+            "whatsapp": "https://chat.whatsapp.com/KQbXqqGGpT5ITeZUjvz87q"
+        },
+        "ZUMMIT INFOLABS INTERN DRIVE": {
+            "long_desc":"<div class='fs-m2 fw-800 red'>Zummit InfoLabs Internship Drive</div><div class='underline fw-800'>Candidature Expectations:</div><ul class='ml-8'><li>Strong knowledge in Artificial Intelligence and Machine Learning</li><li>Interest to work in Cutting Edge technologies </li></ul> <br><br>  <div class='underline fw-800'>Instructions:</div><ul class='ml-8'><li>Aggregate score of Premium and Tech events would be considered for shortlisting students to the next Rounds</li><li>Top performers of <a class='red fw-800 no-underline hover-underline' href='register.html?event_name=CODE%20CARNIVAL&categ=premium_events'>Code Carnival</a> and <a class='red fw-800 no-underline hover-underline' href='register.html?event_name=RUN%20TIME%20ERROR&categ=premium_events'>Run Time Error</a> will be given direct Interview opportunities !</li></ul><div class='mt-2' ><a href='https://zummitlabs.com/' class='no-underline hover-underline red '>Website</a> </div>",
+            "organisers":[["Sathiya Murthi", "9884833038"]],
+            
+            "whatsapp": "https://chat.whatsapp.com/EeSIRHUXfh5GET1Xx8Un3i"
+        },
+        "E-CON SYSTEMS PLACEMENT DRIVE": {
+            "long_desc":"<div class='fs-m2 fw-800 red'>E-CON SYSTEMS Placement Drive</div> <div class='underline fw-800'>Candidature Expectations:</div><ul class='ml-8'><li>Strong basics in microprocessors and microcontrollers</li><li>Embedded  C programming knowledge</li><li>Interest to work in Camera development and solution technologies</li></ul> <br><br> <div class='underline fw-800'>Instructions:</div><ul class='ml-8'><li>Interested candidates will have a separate round, questions will be related to the above mentioned requirements</li><li>Top performers of Robotic Events (<a class='red fw-800 no-underline hover-underline' href='register.html?event_name=LINE%20FOLLOWER&categ=premium_events'>Line Follower</a> and <a class='red fw-800 no-underline hover-underline' href='register.html?event_name=ROBO%20SOCCER&categ=premium_events'>Robo Soccer</a>) and <a class='red fw-800 no-underline hover-underline' href='register.html?event_name=PROJECTINA&categ=premium_events'>Projectina</a> (Project should be microcontroller based) will also get a chance to attend the hiring round for E-Con Systems</li></ul><div class='mt-2' ><a href='https://www.e-consystems.com/' class='no-underline hover-underline red '>Website</a> </div>",
+            "organisers":[["Prakash Murugan", "9487507506"]],
+            
+            "whatsapp": "https://chat.whatsapp.com/BgbJWMPPtzyBCIMUFLBJsL"
+        }
+    }
+}

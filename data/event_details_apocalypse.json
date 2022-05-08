@@ -1,0 +1,219 @@
+{
+    "tech_events":{
+        "PROS AND CONS":{
+            "short_desc":"Microprocessor",
+            "long_desc":"Pros and Cons mainly focusses on Microprocessor and Microcontrollers programming.<br><br>It tests the conceptual understanding of students and their programming and analyzing skills.<br><br>It consists of 2 Rounds wherein the first round is MCQ based assessing followed by Interviews in the second Round.",
+            "organisers":[["Vishnuvardhan", "9566076990"], ["Sri Sandhya", "6382596690"]],
+            "img":"pros-cons",
+            "result": [[["PRAJEEN R G" ,2019504560, "ECE"] ,["PALANIAPPAN S", 2019504558],["SURIYA N",2019504595]],[["CHARAAN S" ,2019504511,"ECE"], ["RAMACHANDRA T" , 2019504568 ], ["ABISHEK R" ,2019504503]]],
+            "closed": true
+        },
+        "ELECTROTRIX":{
+            "short_desc":"Electronic Circuits",
+            "long_desc":"Electrotrix tests your knowledge on the basic concepts of circuit theory and electronic circuits which can ultimately help you in designing any basic circuit. The first round is a MCQ based test followed by an interview.",
+            "organisers":[["Saravanan V", "9384154069"], ["Madhumitha D", "9841433232"]],
+            "img":"electrotrix",
+            "result": [[["NALINKUMAR S" ,2019504038, "ECE"]],[["SHRUTHI" ,2020504584,"ECE"],["MUHAMMED RUMAAN JAMSHED" ,2020504546,"ECE"]]],
+            "closed": true
+
+        },
+        "CODE MANTRA":{
+            "short_desc":"Coding Contest",
+            "long_desc":"<div>Hey Coders,</div><div>“Programming isn't about what you know, it's about what you can figure out”</div><div>To celebrate the spirit of programming Apocalypse brings “Code Mantra Contest”, a knockout coding contest in which each of the participants will get a chance to fight and win to survive in the competition.</div><div>No competition is completed without rewards, hence stand a chance to win prizes<br><b>Note:</b><br>Only 2<sup>nd</sup> and 3<sup>rd</sup> years are allowed. </div>",
+            "organisers":[["Mohan Raj R", "6382540649"], ["Swaminathan K", "8220889222"], ["Sakthi Karunya", "8300162217"]],
+            "img":"coding-mantra",
+            "result": [[["ANANDITAA" ,2020504512, "ECE"]],[["MADHAV KRISHNAA" ,2020506048,"IT"]]],
+            "closed": true
+
+        },
+        "DIGI-LOGI":{
+            "short_desc":"Digital Electronics",
+            "long_desc":"Digi-Logi is based on the concepts of Digital electronic circuitsf and basic networking circuits. The questions will be limited within the syllabus . First round is MCQ 30mins, Second round is tech interview. Those who clear mcq will be called up for tech interview. Details of the next round will be intimidated after the successful completion of the initial round",
+            "organisers":[["Janakiraman E", "7358919246"], ["Samyukta K", "9444284515"]],
+            "img":"digi-logic",
+            "result": [[["CHARAAN S" ,2019504511,"ECE"], ["GANAPATHI SUBRAMANIAN R" , 2019504520], ["NALINKUMAR S" ,2019504038]],[["NANDHINI R" ,2019504552,"ECE" ],["SRIVIDHYA SUTHARSAN", 2019504592],[ "AMRIN FATHIMA",2019504004]]],
+            "closed": true
+
+        },
+        "SIGNAL SYNC":{
+            "short_desc":"Signals & Systems",
+            "long_desc":"Want to find out how strong you are correlated with signals & systems? This event is all about it. Questions will be from your syllabus.<br>1st round--> MCQ'S <br> 2nd round --> interview",
+            "organisers":[["Prakash Murugan N", "8428187506"], ["Kowsalya B U", "7598244760"]],
+            "img":"signals",
+            "result": [[["SRIVATSAN M ", 2019504591,"ECE"]],[["SWETHA V" ,2019504596,"ECE"]]],
+            "closed": true
+
+        },
+        "BIG-O":{
+            "short_desc":"Time Complexity",
+            "long_desc":"The First Round will be a MCQ type based on time complexity in algorithms, pseudo code.<br><br>The Second round will be problem solving on Time and space complexity",
+            "organisers":[["Mohamed Harish", "6383240985"], ["Selvamathi T", "6369089646"]],
+            "img":"bigo",
+            "result": [[["MEYYAPPAN S",2019506050,"IT"]],[["PRAVEENKUMAR V" ,2019506065,"IT"]]],
+            "closed": true
+
+        },
+        "PROJECTINA":{
+            "short_desc":"Project Presentation",
+            "long_desc":"The participants are asked to present a project on their areas of interest .The projects based on IOT and embedded systems are most welcomed.",
+            "organisers":[["Santhosh", "6379982870"], ["Sowmika", "9344460167"]],
+            "img":"projectina",
+            "result": [[["VAIKUNTH GURUSWAMY" ,2019504602 ,"ECE"],["TARUN U" ,2019504597],["SANTHOSH S" ,2019504578],["ABDUL RAHEEM G A ", 2019504501]],[["GANAPATHI SUBRAMANIAN R",2019504520 ,"ECE"],["RAAKESH KUMAR C", 2019504566],["RANJITH S ", 2019504569]]],
+            "closed": true
+
+        }
+    },
+    "non_tech_events":{
+        "CONNECTIONS":{
+            "short_desc":"",
+            "long_desc":"Hey Folks!!!<br><br>This is an interesting and fun-filled non technical event & it's all about connecting the pictures to find the answer out of it.",
+            "organisers":[["Senapathi S", "6383357713"], ["Bagavathi Dharshini R", "9585957495"]],
+            "img":"connections",
+            "result": [[["Ranjith V","2019504570","ECE"],["Elavarasan P","2019504022"],["Raakesh Kumar C","2019504566"]],[["Kiruthika S","2021504018","ECE"], ["Arthi C","2021504505"], ["Keerthana K A","2021504017"]]],
+            "closed": true
+
+        },
+        "IPL AUCTION":{
+            "short_desc":"",
+            "long_desc":"Love to bid? Join our auction party<br><br>The ultimate bidding strategy<br><br>Catch the action at the Auction!!!",
+            "organisers":[["Mohamed Riyaz", "8838352401"], ["Madhumitha R", "9677672329"]],
+            "img":"ipl",
+            "result": [[["GANAPATHI SUBRAMANIAN R" ,2019504520 , "ECE"],["RANJITH S" , 2019504569],["MANOJ N M ",2019504036]],[["NARENDIRAN B S " ,2019504039,"ECE"],["GOKULASANKAR M " , 2019504003],["AGILAN P ", 2019504003]]],
+            "closed": true
+
+        },
+        "MOVIE QUIZ":{
+            "short_desc":"",
+            "long_desc":"Are you a film freak?<br><br>Do you know movies better than you know yourself?! <br><br>Then take our incredibly interesting quiz and explore the cinematic universe!!",
+            "organisers":[["Mukil J A", "9498870535"], ["Bhuvaneaswari", "9487355768"]],
+            "img":"movie",
+            "result": [[["THARUN GANESH ROY ", 2020504594,"ECE"],["ABDUL KHADEER", 2020504501],["RAMANA SRIVATS" ,2020504568]],[["KAVIYA VARSHINI " ,2019504532, "ECE"],["DIVIYA" , 2019504515],["EVANGILINE DIVYA SAGAYEE" , 2019504518]]],
+            "closed": true
+
+        },
+        "MATH MAVERICK":{
+            "short_desc":"",
+            "long_desc":"The event that really counts !!!",
+            "organisers":[["Arun Vikram", "7708455193"], ["Kalaiyarasi S", "9566303920"]],
+            "img":"math",
+            "result": [[["Pranaav Jothi M","2019504561","ECE"]],[["Harinandini N","2019504526","ECE"], ["Kavyapriya V K","2019504537"], ["Sangamithra S","2019504576"]]],
+            "closed": true
+
+        },
+        "PHOTOGRAPHY":{
+            "short_desc":"",
+            "long_desc":"<div>Capture a picture that has the magic to make the moment last forever.</div><div><b>Instructions</b><ul><li>Editing and filters are not allowed</li><li>No plagiarism</li><li>Selfies not allowed</li><li>Caption the image</li></ul><div>Mail your photographs to <a href='mailto:photography.eea2021@gmail.com'>photography.eea2021@gmail.com</a></div></div>",
+            "organisers":[["Chiranjeevi Saravanan", "9600349209"], ["Sowmiya", "9444171304"]],
+            "img":"photography",
+            "result": [[["ANURIDHI K ", 2020502506 ,"AUTO"]],[["PARTHA SARATHY", 2020504556 ,"ECE"]]],
+            "closed": true
+
+        },
+        "MEME CONTEST":{
+            "short_desc":"",
+            "long_desc":"<div>Tired of laughing at other's memes. Join us and make others laugh at yours</div><div><ul><li>Meme Should be a Post</li><li>Submit your memes on or before December -22 @ 10 P.M</li><li>We will judge the submissions especially by originality , overall humour and number of likes.</li><li>Send your memes via instagram <a href='https://www.instagram.com/invites/contact/?i=o5ao3hzjp6gk&utm_content=63nxzj4'>@corona_vs_me</a> or WhatsApp @ 7339027909 with Name, Reg No, Department Name.</li></ul><div><b>Note :</b><ul><li>No plagiarism</li><li>No vulgarity</li></ul></div></div>",
+            "organisers":[["Vignesh N", "9944775518"], ["Visalini", "7339027909"]],
+            "img":"meme",
+            "result": [[["YUVAN RAJU M",2019504608,"ECE"]],[["ARTHI C",2021504505,"ECE"]]],
+            "closed": true
+
+        },
+        "VOICE OVER":{
+            "short_desc":"",
+            "long_desc":"The Participants are asked to dub the muted video with accurate words, slang, emotion and style!!",
+            "organisers":[["Manoj Kumar M", "6383772047"], ["Dharani K", "6379020906"]],
+            "img":"voice",
+            "result": [[["Ragavi A","2019501039","AERO"]],[["Barath S","2020504520","ECE"]]],
+            "closed": true
+
+        },
+        "MOVIE REVIEW":{
+            "short_desc":"",
+            "long_desc":"Ever thought of becoming another blue sattai or panda!!<br><br>Here's the chance to reveal the movie reviewer side of yours!!<br><br>Note:<br><ul><li>Movie name will be give on the spot</li><li>Languages: Tamil, English, Malayalam</li></ul>",
+            "organisers":[["Naren S K", "9677384564"], ["Divyapriya", "9994307475"]],
+            "img":"movie_review",
+            "result": [[["ASHOK R S",2020504004,"ECE"]],[["NITIN R",2020504554,"ECE"],["MANOJ G",2020504015,"ECE"]]],
+            "closed": true
+
+        },
+        "HOW STUFF WORKS":{
+            "short_desc":"",
+            "long_desc":"Ever wondered why things are the way they are?<br>Does the working and reason behind the existence of things make your mind agog?<br>Then, buckle up, for you will be tested on how you perceive and understand everything, and by everything, we mean everything.<br>Come, participate in the <b>How Stuff Works</b> Quiz.",
+            "organisers":[["Sai Rushan", "8056902807"], ["Sneha Sattainathan", "7338912653"]],
+            "img":"how",
+            "result": [[["SIVA CHOKKALINGAM" , 2019504588 ,"ECE"],["ROHINTH RAM ", 2019504571],["VAIKUNTH GURUSWAMY" ,2019504602]],[["THILAK K", 2019504599 ,"ECE"],["ELAVARASAN ", 2019504022]]],
+            "closed": true
+
+        },
+        "FANDOM QUIZ":{
+            "short_desc":"",
+            "long_desc":"Marvel | DC Quiz!!!",
+            "organisers":[["Keethivasan K", "6382929681"], ["Monigaa N", "6383650053"]],
+            "img":"fandom",
+            "result": [[["VAROON K",2019504604,"ECE"],["SHAKEEL MOHAMMED",2019504584],["THANISH MALAI",2019504598]],[["CHARAAN S",2019504511,"ECE"],["ADITYA B",2019504504],["ABHINAV R" ,2019504502]]],
+            "closed": true
+
+        },
+        "CASE CHALLENGE":{
+            "short_desc":"",
+            "long_desc":"<b>Case:</b> Why should we participate in Apocalypse's Case Challenge?<br><br><b>Background:</b> It is a fun event which will test your data interpretation and business problem solving skills.<br><br><b>Reasoning:</b> Due to their dynamic and challenging nature, case competitions are well worth considering. It is an amazing way to put your technical skills to the test and your classroom knowledge into practice.<br><br><b>Target audience:</b> Guys who prefer to work outside IT and Core and anyone with logical thought process.<br><br><b>Verdict:</b> Register to our event guys!",
+            "organisers":[["Vishnuvardhan D", "9566076990"], ["Sai Jayashree S", "8144011469"]],
+            "img":"case_study",
+            "result": [[["KARTHIGA K ", 2019504031,"ECE"]],[["SIVA CHOKKALINGAM" ,2019504588,"ECE"]]],
+            "closed": true
+
+        },
+        "TREASURE HUNT":{
+            "short_desc":"",
+            "long_desc":"The idea of hunting for hidden treasures has always been exciting and adventurous!<br><br>We bring you an opportunity to awaken your inner Holmes. Join us in the Adventure!!",
+            "organisers":[["Chandru A", "8124424244"], ["Kralisha A J", "6384383828"]],
+            "img":"treasure",
+            "result": [[["GANAPATHI SUBRAMANIAN R",2019504520,"ECE"],["RANJITH S",2019504569],["ELAVARASAN P", 2019504022]],[["SELVAGANAPATHY C" , 2019504583,"ECE"],["GOWTHAM K", 2019504523],["PREM KUMAR K", 2019504563]]],
+            "closed": true
+
+        },
+        "GENERAL QUIZ":{
+            "short_desc":"",
+            "long_desc":"Isn't life a collection of weird quizzes with no answers to half the questions? Join us to explore a few of 'em.",
+            "organisers":[["Gokul Krishna U", "9087683166"], ["Sivasri A", "6383990832"]],
+            "img":"quiz",
+            "result": [[["ABHIJIT ARAVIND", 2020506002,"IT"]],[["ARUNAGIRI" , 2020506015 ,"IT"]]],
+            "closed": true
+
+        },
+        "MR AND MS TECHNOCRAT":{
+            "short_desc":"Lorem",
+            "long_desc":"Being termed students,Toppers, Engineers we always hid behind titles. Here's your chance to shine alone and ablaze.Join us for the grand title event of Apocalypse <b>Mr and Ms Technocrat</b> and earn exciting prizes! It's fun, it's Invigorating and most importantly its non-technical.Stay tuned for the surprise events and get an amazing chance to explore yourselves along the journey. Do register.",
+            "organisers":[["Duke Daffin", "7397566385"], ["Mohana Priyadharshini", "9159610285"]],
+            "img":"mega",
+            "result": [[["CHARAAN SURESHKUMAR " , 2019504511 ,"ECE"]],[["NAVEENAA SURESHBABU " ,2021504027 , "ECE"]]],
+            "closed": true
+        }
+
+    },
+    "workshops":{
+        "IMAGE PROCESSING":{
+            "short_desc":"By Dr.Prashanth Chandran",
+            "long_desc":"Webinar on Image Processing <br> <b>By Dr.Prashanth Chandran</b>,<br>scholar at Zurich University",
+            "organisers":[["Mukundhan R", "6382305769"], ["Nijith Sahay", "9514478810"]],
+            "img":"image_process",
+            "closed": false
+
+        },
+        "CRYPTOCURRENCY":{
+            "short_desc":"Webinar on CryptoCurrency",
+            "long_desc":"Introduction to Blockchain Technology.<br><br>Detailed explanation of Cryptocurrencies and their uses will be discussed.",
+            "organisers":[["Ananth B", "9787799646"], ["Adityen G", "7448928609"]],
+            "img":"crypto",
+            "closed": false
+
+        },
+        "DIGITAL ART AND VFX" :{
+            "short_desc":"Intro to VFX",
+            "long_desc":"Introduction to digital art in photoshop and basics of VFX",
+            "organisers":[["Keerthivasan K", "6382929681"], ["Praveen Kumar K", "6384726384"]],
+            "img":"art",
+            "closed": false
+        }
+    }
+}

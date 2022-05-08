@@ -6,6 +6,30 @@
     background-size: cover;
     justify-content: center;
 } */
+* {
+    scroll-behavior: smooth;
+}
+#countdown, #headline {
+    color: #fff;
+    text-align: center;
+  }
+  
+  #countdown li {
+    display: inline-block;
+    font-size: 1.5em;
+    list-style-type: none;
+    padding: 1em;
+    text-transform: uppercase;
+  }
+  
+  #countdown li span {
+    display: block;
+    font-size: 2.5rem;
+  }
+  
+  #countdown>ul {
+    padding: 0;
+  }
 
 #hero-bg {
     position: absolute;
@@ -38,6 +62,20 @@
     background: linear-gradient(to bottom, #bcc6cc, #eee, #bcc6cc);
 }
 
+.toggle {
+    background: none;
+    border: none;
+    color: #E7393F ;
+    /*display: none;*/
+    /*font-size: .9em;*/
+    font-weight: 600;
+    /*padding: .5em;*/
+    position: absolute;
+    right: .75em;
+    top: 1.5em;
+    z-index: 9;
+  }
+  
 /* 
 #bg-ripple {
     animation: shine 2s ease-in-out infinite;
@@ -79,7 +117,7 @@
     }
   } */
 
-#home {
+#_home {
     font-weight: 700; 
     display: flex;        
     align-items: center; 
@@ -93,6 +131,43 @@
 #home>div{
     width: 50%;
 }
+
+.ticket::before, .ticket::after {
+    content: "";
+    display: inline-flex;
+    background-size: 1.4rem 1.4rem;
+    background-position: 0 0.7rem;
+    background-repeat: round round;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -0.7rem;
+    right: -0.7rem;
+    z-index: -1;
+  }
+
+
+.ticket-tech{
+    background-color: #ffdab9;
+}
+.ticket-tech::before, .ticket-tech::after{
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='80' height='80'><polygon points='40 0,0 40,40 80,80 40' style='fill:%23FFDAB9;fill-rule:nonzero;'></polygon></svg>");
+}
+
+.ticket-silver{
+    background-color: #bcc6cc;
+}
+.ticket-silver::before, .ticket-silver::after{
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='80' height='80'><polygon points='40 0,0 40,40 80,80 40' style='fill:%23BCC6CC;fill-rule:nonzero;'></polygon></svg>");
+}
+
+.ticket-gold{
+    background-color: #DBAD4B;
+}
+.ticket-gold::before, .ticket-gold::after{
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='80' height='80'><polygon points='40 0,0 40,40 80,80 40' style='fill:%23DBAD4B;fill-rule:nonzero;'></polygon></svg>");
+}
+
 
 /*signin PAge*/
 #circle{
@@ -119,3 +194,62 @@
     }
     
   }
+
+  .count_parent{
+    position: absolute; 
+    bottom: 0;
+    display: flex; 
+    justify-content: center;
+    width: 100%;
+  }
+
+  @media all and (max-width: 768px) {
+
+    #countdown {
+        bottom: 75px;
+    }
+    #countdown li {
+      font-size: calc(1rem * var(--smaller));
+      padding: 0.5em;
+    }
+  
+    #countdown li span {
+      font-size: calc(1.25rem * var(--smaller));
+    }
+
+    .count_parent{
+        bottom: 70px;
+    }
+  }
+
+#prize_worth_badge{
+    width: 120px;
+    height: 180px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    text-align: center;
+    transform: rotate(25deg) ;
+    right: 0;
+    top: 0;
+    display: none;
+}
+
+#prize_worth_badge>div{
+    transform: rotate(-25deg) translate(-10px, 20px);
+}
+
+.max_img{
+  position: absolute;
+  right: 20px;
+  top: 0;
+
+}
+
+@media screen and (max-width: 768px ) {
+  .max_img {
+    position: relative;
+
+  }
+}
+    
